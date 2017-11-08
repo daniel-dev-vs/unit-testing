@@ -1,0 +1,9 @@
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\bin\Debug\Inferencia.exe.config
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\bin\Debug\Inferencia.exe
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\bin\Debug\Inferencia.pdb
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\obj\Debug\Inferencia.csprojResolveAssemblyReference.cache
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\obj\Debug\Inferencia.csproj.CoreCompileInputs.cache
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\obj\Debug\Inferencia.exe
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\obj\Debug\Inferencia.pdb
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\bin\Debug\MyClasses.dll
+C:\Users\danielferreira\documents\visual studio 2017\Projects\MyClasses\Inferencia\bin\Debug\MyClasses.pdb
