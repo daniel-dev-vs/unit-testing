@@ -48,5 +48,53 @@ namespace MyClasses
             return ret;
         }
 
+        public List<Person> GetPeople()
+        {
+            List<Person> people = new List<Person>();
+
+            people.Add(new Person() { FirstName = "Daniel", LastName = "Ferreira" });
+            people.Add(new Person() { FirstName = "Rexona", LastName = "Men" });
+            people.Add(new Person() { FirstName = "Logitech", LastName = "Mouse" });
+
+            return people;
+        }
+
+
+        public List<Person> GetSupervisors()
+        {
+            List<Person> people = new List<Person>();
+
+            people.Add(CreatePerson("Daniel", "Ferreira", true));
+            people.Add(CreatePerson("RExona", "Men", true));
+
+
+            return people;
+        }
+
+        public List<Person> GetEmployees()
+        {
+            List<Person> people = new List<Person>();
+
+            people.Add(CreatePerson("Daniel", "Ferreira", false));
+            people.Add(CreatePerson("RExona", "Men", false));
+
+
+            return people;
+        }
+
+        public List<Person> GetEmployeesAndSupervisors()
+        {
+            List<Person> people = new List<Person>();
+
+            people.Add(CreatePerson("Daniel", "Ferreira", false));
+            people.Add(CreatePerson("RExona", "Men", false));
+
+            people.Add(CreatePerson("Daniel", "Ferreira", true));
+            people.Add(CreatePerson("RExona", "Men", true));
+
+
+            return people;
+        }
+
     }
 }
